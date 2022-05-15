@@ -1,0 +1,15 @@
+{C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/BOOTH MULTIPLIER/booth.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/BOOTH MULTIPLIER/booth_test.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module booth_test
+
+Top level modules:
+	booth_test
+
+} {} {}} {C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/BOOTH MULTIPLIER/booth_test.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/BOOTH MULTIPLIER/booth_test.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module booth_test
+
+Top level modules:
+	booth_test
+
+} {} {}}

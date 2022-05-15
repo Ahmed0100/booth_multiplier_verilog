@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/FIR FILTER
+vbooth
+!s110 1444769767
+!i10b 1
+!s100 khRXe]5QFW7J6`9ELegmG0
+IEgCAJdSRGdPDFii<LFf<_1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/BOOTH MULTIPLIER
+w1444769760
+8C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/BOOTH MULTIPLIER/booth.v
+FC:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/BOOTH MULTIPLIER/booth.v
+L0 1
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1444769766.000000
+!s107 C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/BOOTH MULTIPLIER/booth.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/BOOTH MULTIPLIER/booth.v|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vbooth_test
+!s110 1444769768
+!i10b 1
+!s100 7ZzN=9c_O@1_19=?Md]XK0
+IMHMSoYgSGhae;Y1^`9;R@3
+R0
+R1
+w1444768854
+8C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/BOOTH MULTIPLIER/booth_test.v
+FC:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/BOOTH MULTIPLIER/booth_test.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1444769768.000000
+!s107 C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/BOOTH MULTIPLIER/booth_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/BOOTH MULTIPLIER/booth_test.v|
+!s101 -O0
+!i113 1
+R3
